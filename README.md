@@ -1,6 +1,10 @@
 # MyShoes online shop
-Online shop app usinng React, Redux, Node, Express and MongoDB
-Using antd for UI
+
+![MyShoes preview](shoe-shop.png)
+
+Ecommerce app using React, Redux, Node, Express and MongoDB.
+
+Using antd for UI.
 
 Functionality implemented:
 * display items and filter by category/price
